@@ -1,0 +1,13 @@
+comandos git usados para realizar taller Und 5 
+
+- git init (para crear carpeta)
+-git clone (para clonar repositorio virtual)
+- git status (para verificar estado de repositrio y archivos)
+-git add "nombreDeArchivo" (comando para agregar a repositorio)
+git commit -m "commit comentario de archivo agregado "( para agrgar un commit a un archivo y dejarlo listo para subir cambios)
+git push (para actualizar el repositorio virtual)
+git pull (para actualizar el repositorio local en caso de que hayan cambios en el repositrio en linea)
+** al final he realizado por mi cuenta para practicar el comando pull, cambios en archivo step6 y pull para actualizar repositorio local.
+
+Javier Andrés Giraldo bejarano.
+1DAW- Semipresencial.
